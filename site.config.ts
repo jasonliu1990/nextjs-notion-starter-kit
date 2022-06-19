@@ -8,7 +8,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
   // basic site info (required)
   name: '筆記',
-  domain: 'https://evening-tablecloth-085.notion.site/',
+  domain: 'https://evening-tablecloth-085.notion.site/Web-eb793c9cf7334779a5ba6fed7cb74b8d',
   author: 'Jason Liu',
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
