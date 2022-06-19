@@ -9,7 +9,7 @@ export default siteConfig({
   // basic site info (required)
   name: '筆記',
   domain: 'https://evening-tablecloth-085.notion.site/Web-eb793c9cf7334779a5ba6fed7cb74b8d',
-  author: 'Jasonn Liu',
+  author: 'Jason Liu',
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
   // social usernames (optional)
