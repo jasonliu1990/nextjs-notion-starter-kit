@@ -50,11 +50,11 @@ export default siteConfig({
     navigationLinks: [
 	{
         title: 'About',
-        pageId: 'about-9f0df163e72a43be925f935e19ca84ad'
-    },
+        pageId: 'about-9f0df163e72a43be925f935e19ca84ad',
+	},
        {
          title: 'Contact',
-         pageId: 'Contact-2f09c9def694410b980b6682744c5322'
+         pageId: 'Contact-2f09c9def694410b980b6682744c5322',
        }
     ]
 	
